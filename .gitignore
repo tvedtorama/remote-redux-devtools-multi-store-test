@@ -1,0 +1,6 @@
+build
+typings
+node_modules
+testBuild
+utils
+.idea

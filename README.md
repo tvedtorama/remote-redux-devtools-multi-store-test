@@ -1,0 +1,1 @@
+A test on how remote-redux-devtools works with multiple stores in the same process.  Using thunks to try to reproduce a problems found when using redux-saga, to no avail.
